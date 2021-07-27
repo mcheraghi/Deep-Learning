@@ -29,7 +29,7 @@ raw_dataset = pd.read_csv(url, names=column_names,
 dataset = raw_dataset.copy()
 print(dataset.tail())
 
-raw_dataset.to_csv("car_dataset.csv")  
+   
    
 # The unknown values
 
