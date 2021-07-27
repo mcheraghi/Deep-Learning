@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning using table data
+Deep Learning for tabular data 
